@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://UCL-Team4.github.io/handbook/</loc>
+         <lastmod>2024-11-12</lastmod>
+    </url>
+    <url>
+         <loc>https://UCL-Team4.github.io/handbook/conditionals/</loc>
+         <lastmod>2024-11-12</lastmod>
+    </url>
+    <url>
+         <loc>https://UCL-Team4.github.io/handbook/github/</loc>
+         <lastmod>2024-11-12</lastmod>
+    </url>
+    <url>
+         <loc>https://UCL-Team4.github.io/handbook/methods/</loc>
+         <lastmod>2024-11-12</lastmod>
+    </url>
+    <url>
+         <loc>https://UCL-Team4.github.io/handbook/unittest/</loc>
+         <lastmod>2024-11-12</lastmod>
+    </url>
+    <url>
+         <loc>https://UCL-Team4.github.io/handbook/variables/</loc>
+         <lastmod>2024-11-12</lastmod>
+    </url>
+</urlset>
