@@ -42,3 +42,5 @@ nav:
   - "methods.md"
   - "variables.md"
   - "conditionals.md"
+  - "unittest.md"
+  - "github.md"
