@@ -64,6 +64,13 @@ MovementState movementState = MovementState.Unknown;
 
 Using an enum simplifies state management and future expansion (e.g., adding Idle, Swimming, etc.) while avoiding ambiguous states.
 
+## Name Spaces
+Name Spaces should follow the project structure and should ALWAYS be in PascalCase.
+
+Name Spaces should always outline whewre the file is located in the project structure.
+
+A good convention would be `[Project].[Folder].[Feature]`
+
 ## Location
 
 ### Local Variables: Declare variables within a method as close as possible to where they’re used.
